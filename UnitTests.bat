@@ -1,1 +1,1 @@
-coverlet CoverletIssueUnitTests\bin\Debug\net461\CoverletIssueUnitTests.dll --target "dotnet" --targetargs "vstest CoverletIssueUnitTests\bin\Debug\net461\CoverletIssueUnitTests.dll" --format cobertura
+coverlet CoverletIssueUnitTests\bin\Debug\net48\CoverletIssueUnitTests.dll --target "dotnet" --targetargs "vstest CoverletIssueUnitTests\bin\Debug\net48\CoverletIssueUnitTests.dll" --format cobertura
